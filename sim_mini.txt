@@ -1,0 +1,38 @@
+A mini simulation
+Order S White
+Order SE White
+Order SES White
+Order SEL White
+Picker Alice ready
+Picker Alice get new pick request
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 3
+Picker Alice pick 4
+Picker Alice pick 5
+Picker Alice pick 6
+Picker Alice pick 7
+Picker Alice pick 8
+Picker Alice marshal
+Sequencer Sally ready
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 1
+Sequencer Sally sequence 2
+Sequencer Sally sequence 3
+Sequencer Sally sequence 4
+Sequencer Sally sequence 5
+Sequencer Sally sequence 6
+Sequencer Sally sequence 7
+Sequencer Sally sequence 8
+Sequencer Sally move pallets
+Loader Bill ready
+Loader Bill get new pallets to load
+Loader Bill check 1
+Loader Bill check 2
+Loader Bill check 3
+Loader Bill check 4
+Loader Bill check 5
+Loader Bill check 6
+Loader Bill check 7
+Loader Bill check 8
+Loader Bill load

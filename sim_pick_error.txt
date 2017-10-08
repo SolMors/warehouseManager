@@ -1,0 +1,20 @@
+Bad Pick Simulation - Alice picks her pickRequest incorrectly. Issue found by sequence Sally. Exception thrown, Terminating simulation.
+Order S White
+Order SE White
+Order SES White
+Order SEL White
+Picker Alice ready
+Sequencer Sally ready
+Loader Bill ready
+Picker Alice gets pickRequest
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 3
+Picker Alice pick 4
+Picker Alice pick 5
+Picker Alice pick 6
+Picker Alice pick 7
+Picker Alice pick 8
+Picker Alice marshal
+Sequencer Sally 
+Loader Bill loads

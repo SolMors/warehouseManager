@@ -1,0 +1,13 @@
+project/Loader.java
+project/Order.java
+project/OrderManager.java
+project/Picker.java
+project/PickRequest.java
+project/ReadAndWrite.java
+project/Replenisher.java
+project/RunWarehouse.java
+project/Sequencer.java
+project/WarehouseExceptions.java
+project/WarehouseManager.java
+project/WarehousePicking.java
+project/Worker.java

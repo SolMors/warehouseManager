@@ -1,0 +1,687 @@
+A perfect world - 80 orders received overnight, no new orders arrive during the day, one SKU needs to be replenished, all orders are processed to perfection by four Pickers, one Sequencer, and one Loader.
+Order S White
+Order SE White
+Order SES White
+Order SEL White
+Order S Beige
+Order SE Beige
+Order SES Beige
+Order SEL Beige
+Order S Red
+Order SE Red
+Order SES Red
+Order SEL Red
+Order S Green
+Order SE Green
+Order SES Green
+Order SEL Green
+Order S Blue
+Order SE Blue
+Order SES Blue
+Order SEL Blue
+Order S Black
+Order SE Black
+Order SES Black
+Order SEL Black
+Order S White
+Order SE White
+Order SES White
+Order SEL White
+Order S Beige
+Order SE Beige
+Order SES Beige
+Order SEL Beige
+Order S Red
+Order SE Red
+Order SES Red
+Order SEL Red
+Order S Green
+Order SE Green
+Order SES Green
+Order SEL Green
+Order S Blue
+Order SE Blue
+Order SES Blue
+Order SEL Blue
+Order S Black
+Order SE Black
+Order SES Black
+Order SEL Black
+Order S White
+Order SE White
+Order SES White
+Order SEL White
+Order S Beige
+Order SE Beige
+Order SES Beige
+Order SEL Beige
+Order S Red
+Order SE Red
+Order SES Red
+Order SEL Red
+Order S Green
+Order SE Green
+Order SES Green
+Order SEL Green
+Order S Blue
+Order SE Blue
+Order SES Blue
+Order SEL Blue
+Order S Black
+Order SE Black
+Order SES Black
+Order SEL Black
+Order S White
+Order SE White
+Order SES White
+Order SEL White
+Order S Beige
+Order SE Beige
+Order SES Beige
+Order SEL Beige
+Picker Alice ready
+Picker Bob ready
+Picker Will ready
+Picker Polly ready
+Sequencer Sally ready
+Loader Larry ready
+Picker Alice get new pick request
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 3
+Picker Alice pick 4
+Picker Alice pick 5
+Picker Alice pick 6
+Picker Alice pick 7
+Picker Alice pick 8
+Picker Alice marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 1
+Sequencer Sally sequence 2
+Sequencer Sally sequence 3
+Sequencer Sally sequence 4
+Sequencer Sally sequence 5
+Sequencer Sally sequence 6
+Sequencer Sally sequence 7
+Sequencer Sally sequence 8
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 1
+Loader Larry check 2
+Loader Larry check 3
+Loader Larry check 4
+Loader Larry check 5
+Loader Larry check 6
+Loader Larry check 7
+Loader Larry check 8
+Loader Larry load pallets
+Picker Bob get new pick request
+Picker Bob pick 10
+Picker Bob pick 11
+Picker Bob pick 12
+Picker Bob pick 13
+Picker Bob pick 14
+Picker Bob pick 15
+Picker Bob pick 16
+Picker Bob pick 9
+Picker Bob marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 9
+Sequencer Sally sequence 10
+Sequencer Sally sequence 11
+Sequencer Sally sequence 12
+Sequencer Sally sequence 13
+Sequencer Sally sequence 14
+Sequencer Sally sequence 15
+Sequencer Sally sequence 16
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 9
+Loader Larry check 10
+Loader Larry check 11
+Loader Larry check 12
+Loader Larry check 13
+Loader Larry check 14
+Loader Larry check 15
+Loader Larry check 16
+Loader Larry load pallets
+Picker Will get new pick request
+Picker Will pick 17
+Picker Will pick 18
+Picker Will pick 19
+Picker Will pick 20
+Picker Will pick 21
+Picker Will pick 22
+Picker Will pick 23
+Picker Will pick 24
+Picker Will marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 17
+Sequencer Sally sequence 18
+Sequencer Sally sequence 19
+Sequencer Sally sequence 20
+Sequencer Sally sequence 21
+Sequencer Sally sequence 22
+Sequencer Sally sequence 23
+Sequencer Sally sequence 24
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 17
+Loader Larry check 18
+Loader Larry check 19
+Loader Larry check 20
+Loader Larry check 21
+Loader Larry check 22
+Loader Larry check 23
+Loader Larry check 24
+Loader Larry load pallets
+Picker Polly get new pick request
+Picker Polly pick 25
+Picker Polly pick 26
+Picker Polly pick 27
+Picker Polly pick 28
+Picker Polly pick 29
+Picker Polly pick 30
+Picker Polly pick 31
+Picker Polly pick 32
+Picker Polly marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 25
+Sequencer Sally sequence 26
+Sequencer Sally sequence 27
+Sequencer Sally sequence 28
+Sequencer Sally sequence 29
+Sequencer Sally sequence 30
+Sequencer Sally sequence 31
+Sequencer Sally sequence 32
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 25
+Loader Larry check 26
+Loader Larry check 27
+Loader Larry check 28
+Loader Larry check 29
+Loader Larry check 30
+Loader Larry check 31
+Loader Larry check 32
+Loader Larry load pallets
+Picker Alice get new pick request
+Picker Alice pick 33
+Picker Alice pick 34
+Picker Alice pick 35
+Picker Alice pick 36
+Picker Alice pick 37
+Picker Alice pick 38
+Picker Alice pick 39
+Picker Alice pick 40
+Picker Alice marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 33
+Sequencer Sally sequence 34
+Sequencer Sally sequence 35
+Sequencer Sally sequence 36
+Sequencer Sally sequence 37
+Sequencer Sally sequence 38
+Sequencer Sally sequence 39
+Sequencer Sally sequence 40
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 33
+Loader Larry check 34
+Loader Larry check 35
+Loader Larry check 36
+Loader Larry check 37
+Loader Larry check 38
+Loader Larry check 39
+Loader Larry check 40
+Loader Larry load pallets
+Picker Bob get new pick request
+Picker Bob pick 41
+Picker Bob pick 42
+Picker Bob pick 43
+Picker Bob pick 44
+Picker Bob pick 45
+Picker Bob pick 46
+Picker Bob pick 47
+Picker Bob pick 48
+Picker Bob marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 41
+Sequencer Sally sequence 42
+Sequencer Sally sequence 43
+Sequencer Sally sequence 44
+Sequencer Sally sequence 45
+Sequencer Sally sequence 46
+Sequencer Sally sequence 47
+Sequencer Sally sequence 48
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 41
+Loader Larry check 42
+Loader Larry check 43
+Loader Larry check 44
+Loader Larry check 45
+Loader Larry check 46
+Loader Larry check 47
+Loader Larry check 48
+Loader Larry load pallets
+Picker Will get new pick request
+Picker Will pick 1
+Picker Will pick 2
+Picker Will pick 3
+Picker Will pick 4
+Picker Will pick 5
+Picker Will pick 6
+Picker Will pick 7
+Picker Will pick 8
+Picker Will marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 1
+Sequencer Sally sequence 2
+Sequencer Sally sequence 3
+Sequencer Sally sequence 4
+Sequencer Sally sequence 5
+Sequencer Sally sequence 6
+Sequencer Sally sequence 7
+Sequencer Sally sequence 8
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 1
+Loader Larry check 2
+Loader Larry check 3
+Loader Larry check 4
+Loader Larry check 5
+Loader Larry check 6
+Loader Larry check 7
+Loader Larry check 8
+Loader Larry load pallets
+Picker Polly get new pick request
+Picker Polly pick 10
+Picker Polly pick 11
+Picker Polly pick 12
+Picker Polly pick 13
+Picker Polly pick 14
+Picker Polly pick 15
+Picker Polly pick 16
+Picker Polly pick 9
+Picker Polly marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 9
+Sequencer Sally sequence 10
+Sequencer Sally sequence 11
+Sequencer Sally sequence 12
+Sequencer Sally sequence 13
+Sequencer Sally sequence 14
+Sequencer Sally sequence 15
+Sequencer Sally sequence 16
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 9
+Loader Larry check 10
+Loader Larry check 11
+Loader Larry check 12
+Loader Larry check 13
+Loader Larry check 14
+Loader Larry check 15
+Loader Larry check 16
+Loader Larry load pallets
+Picker Alice get new pick request
+Picker Alice pick 17
+Picker Alice pick 18
+Picker Alice pick 19
+Picker Alice pick 20
+Picker Alice pick 21
+Picker Alice pick 22
+Picker Alice pick 23
+Picker Alice pick 24
+Picker Alice marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 17
+Sequencer Sally sequence 18
+Sequencer Sally sequence 19
+Sequencer Sally sequence 20
+Sequencer Sally sequence 21
+Sequencer Sally sequence 22
+Sequencer Sally sequence 23
+Sequencer Sally sequence 24
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 17
+Loader Larry check 18
+Loader Larry check 19
+Loader Larry check 20
+Loader Larry check 21
+Loader Larry check 22
+Loader Larry check 23
+Loader Larry check 24
+Loader Larry load pallets
+Picker Bob get new pick request
+Picker Bob pick 25
+Picker Bob pick 26
+Picker Bob pick 27
+Picker Bob pick 28
+Picker Bob pick 29
+Picker Bob pick 30
+Picker Bob pick 31
+Picker Bob pick 32
+Picker Bob marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 25
+Sequencer Sally sequence 26
+Sequencer Sally sequence 27
+Sequencer Sally sequence 28
+Sequencer Sally sequence 29
+Sequencer Sally sequence 30
+Sequencer Sally sequence 31
+Sequencer Sally sequence 32
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 25
+Loader Larry check 26
+Loader Larry check 27
+Loader Larry check 28
+Loader Larry check 29
+Loader Larry check 30
+Loader Larry check 31
+Loader Larry check 32
+Loader Larry load pallets
+Picker Will get new pick request
+Picker Will pick 33
+Picker Will pick 34
+Picker Will pick 35
+Picker Will pick 36
+Picker Will pick 37
+Picker Will pick 38
+Picker Will pick 39
+Picker Will pick 40
+Picker Will marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 33
+Sequencer Sally sequence 34
+Sequencer Sally sequence 35
+Sequencer Sally sequence 36
+Sequencer Sally sequence 37
+Sequencer Sally sequence 38
+Sequencer Sally sequence 39
+Sequencer Sally sequence 40
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 33
+Loader Larry check 34
+Loader Larry check 35
+Loader Larry check 36
+Loader Larry check 37
+Loader Larry check 38
+Loader Larry check 39
+Loader Larry check 40
+Loader Larry load pallets
+Picker Polly get new pick request
+Picker Polly pick 41
+Picker Polly pick 42
+Picker Polly pick 43
+Picker Polly pick 44
+Picker Polly pick 45
+Picker Polly pick 46
+Picker Polly pick 47
+Picker Polly pick 48
+Picker Polly marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 41
+Sequencer Sally sequence 42
+Sequencer Sally sequence 43
+Sequencer Sally sequence 44
+Sequencer Sally sequence 45
+Sequencer Sally sequence 46
+Sequencer Sally sequence 47
+Sequencer Sally sequence 48
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 41
+Loader Larry check 42
+Loader Larry check 43
+Loader Larry check 44
+Loader Larry check 45
+Loader Larry check 46
+Loader Larry check 47
+Loader Larry check 48
+Loader Larry load pallets
+Picker Alice get new pick request
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 3
+Picker Alice pick 4
+Picker Alice pick 5
+Picker Alice pick 6
+Picker Alice pick 7
+Picker Alice pick 8
+Picker Alice marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 1
+Sequencer Sally sequence 2
+Sequencer Sally sequence 3
+Sequencer Sally sequence 4
+Sequencer Sally sequence 5
+Sequencer Sally sequence 6
+Sequencer Sally sequence 7
+Sequencer Sally sequence 8
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 1
+Loader Larry check 2
+Loader Larry check 3
+Loader Larry check 4
+Loader Larry check 5
+Loader Larry check 6
+Loader Larry check 7
+Loader Larry check 8
+Loader Larry load pallets
+Picker Bob get new pick request
+Picker Bob pick 10
+Picker Bob pick 11
+Picker Bob pick 12
+Picker Bob pick 13
+Picker Bob pick 14
+Picker Bob pick 15
+Picker Bob pick 16
+Picker Bob pick 9
+Picker Bob marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 9
+Sequencer Sally sequence 10
+Sequencer Sally sequence 11
+Sequencer Sally sequence 12
+Sequencer Sally sequence 13
+Sequencer Sally sequence 14
+Sequencer Sally sequence 15
+Sequencer Sally sequence 16
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 9
+Loader Larry check 10
+Loader Larry check 11
+Loader Larry check 12
+Loader Larry check 13
+Loader Larry check 14
+Loader Larry check 15
+Loader Larry check 16
+Loader Larry load pallets
+Picker Will get new pick request
+Picker Will pick 17
+Picker Will pick 18
+Picker Will pick 19
+Picker Will pick 20
+Picker Will pick 21
+Picker Will pick 22
+Picker Will pick 23
+Picker Will pick 24
+Picker Will marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 17
+Sequencer Sally sequence 18
+Sequencer Sally sequence 19
+Sequencer Sally sequence 20
+Sequencer Sally sequence 21
+Sequencer Sally sequence 22
+Sequencer Sally sequence 23
+Sequencer Sally sequence 24
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 17
+Loader Larry check 18
+Loader Larry check 19
+Loader Larry check 20
+Loader Larry check 21
+Loader Larry check 22
+Loader Larry check 23
+Loader Larry check 24
+Loader Larry load pallets
+Picker Polly get new pick request
+Picker Polly pick 25
+Picker Polly pick 26
+Picker Polly pick 27
+Picker Polly pick 28
+Picker Polly pick 29
+Picker Polly pick 30
+Picker Polly pick 31
+Picker Polly pick 32
+Picker Polly marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 25
+Sequencer Sally sequence 26
+Sequencer Sally sequence 27
+Sequencer Sally sequence 28
+Sequencer Sally sequence 29
+Sequencer Sally sequence 30
+Sequencer Sally sequence 31
+Sequencer Sally sequence 32
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 25
+Loader Larry check 26
+Loader Larry check 27
+Loader Larry check 28
+Loader Larry check 29
+Loader Larry check 30
+Loader Larry check 31
+Loader Larry check 32
+Loader Larry load pallets
+Picker Alice get new pick request
+Picker Alice pick 33
+Picker Alice pick 34
+Picker Alice pick 35
+Picker Alice pick 36
+Picker Alice pick 37
+Picker Alice pick 38
+Picker Alice pick 39
+Picker Alice pick 40
+Picker Alice marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 33
+Sequencer Sally sequence 34
+Sequencer Sally sequence 35
+Sequencer Sally sequence 36
+Sequencer Sally sequence 37
+Sequencer Sally sequence 38
+Sequencer Sally sequence 39
+Sequencer Sally sequence 40
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 33
+Loader Larry check 34
+Loader Larry check 35
+Loader Larry check 36
+Loader Larry check 37
+Loader Larry check 38
+Loader Larry check 39
+Loader Larry check 40
+Loader Larry load pallets
+Picker Bob get new pick request
+Picker Bob pick 41
+Picker Bob pick 42
+Picker Bob pick 43
+Picker Bob pick 44
+Picker Bob pick 45
+Picker Bob pick 46
+Picker Bob pick 47
+Picker Bob pick 48
+Picker Bob marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 41
+Sequencer Sally sequence 42
+Sequencer Sally sequence 43
+Sequencer Sally sequence 44
+Sequencer Sally sequence 45
+Sequencer Sally sequence 46
+Sequencer Sally sequence 47
+Sequencer Sally sequence 48
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 41
+Loader Larry check 42
+Loader Larry check 43
+Loader Larry check 44
+Loader Larry check 45
+Loader Larry check 46
+Loader Larry check 47
+Loader Larry check 48
+Loader Larry load pallets
+Picker Will get new pick request
+Picker Will pick 1
+Picker Will pick 2
+Picker Will pick 3
+Picker Will pick 4
+Picker Will pick 5
+Picker Will pick 6
+Picker Will pick 7
+Picker Will pick 8
+Picker Will marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 1
+Sequencer Sally sequence 2
+Sequencer Sally sequence 3
+Sequencer Sally sequence 4
+Sequencer Sally sequence 5
+Sequencer Sally sequence 6
+Sequencer Sally sequence 7
+Sequencer Sally sequence 8
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 1
+Loader Larry check 2
+Loader Larry check 3
+Loader Larry check 4
+Loader Larry check 5
+Loader Larry check 6
+Loader Larry check 7
+Loader Larry check 8
+Loader Larry load pallets
+Picker Polly get new pick request
+Picker Polly pick 10
+Picker Polly pick 11
+Picker Polly pick 12
+Picker Polly pick 13
+Picker Polly pick 14
+Picker Polly pick 15
+Picker Polly pick 16
+Picker Polly pick 9
+Picker Polly marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 9
+Sequencer Sally sequence 10
+Sequencer Sally sequence 11
+Sequencer Sally sequence 12
+Sequencer Sally sequence 13
+Sequencer Sally sequence 14
+Sequencer Sally sequence 15
+Sequencer Sally sequence 16
+Sequencer Sally move pallets to staging
+Loader Larry get pallets from Load Staging
+Loader Larry check 9
+Loader Larry check 10
+Loader Larry check 11
+Loader Larry check 12
+Loader Larry check 13
+Loader Larry check 14
+Loader Larry check 15
+Loader Larry check 16
+Loader Larry load pallets

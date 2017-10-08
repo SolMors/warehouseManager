@@ -1,0 +1,74 @@
+Order Error Simulation - pickRequest 1 arrives at loading zone before pickRequest 0 and is attempted to put on truck. Throws error because load error is wrong.
+Order S White
+Order SE White
+Order SES White
+Order SEL White
+Picker Alice ready
+Order S Beige
+Order SE Beige
+Order SES Beige
+Order SEL Beige
+Picker Bob ready
+Picker Alice get new pick request
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 3
+Picker Alice pick 4
+Picker Alice pick 5
+Picker Alice pick 6
+Picker Alice pick 7
+Picker Alice pick 8
+Picker Bob get new pick request
+Picker Bob pick 10
+Picker Bob pick 11
+Picker Bob pick 12
+Picker Bob pick 13
+Picker Bob pick 14
+Picker Bob pick 15
+Picker Bob pick 16
+Picker Bob pick 9
+Picker Bob marshal
+Sequencer Sally ready
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 9
+Sequencer Sally sequence 10
+Sequencer Sally sequence 11
+Sequencer Sally sequence 12
+Sequencer Sally sequence 13
+Sequencer Sally sequence 14
+Sequencer Sally sequence 15
+Sequencer Sally sequence 16
+Sequencer Sally move pallets
+Loader Bill ready
+Loader Bill get new pallets to load
+Picker Alice marshal
+Sequencer Sally get new unsorted pallet
+Sequencer Sally sequence 1
+Sequencer Sally sequence 2
+Sequencer Sally sequence 3
+Sequencer Sally sequence 4
+Sequencer Sally sequence 5
+Sequencer Sally sequence 6
+Sequencer Sally sequence 7
+Sequencer Sally sequence 8
+Sequencer Sally move pallets
+Loader Bill get new pallets to load
+Loader Bill check 1
+Loader Bill check 2
+Loader Bill check 3
+Loader Bill check 4
+Loader Bill check 5
+Loader Bill check 6
+Loader Bill check 7
+Loader Bill check 8
+Loader Bill load pallets
+Loader Bill get new pallets to load
+Loader Bill check 9
+Loader Bill check 10
+Loader Bill check 11
+Loader Bill check 12
+Loader Bill check 13
+Loader Bill check 14
+Loader Bill check 15
+Loader Bill check 16
+Loader Bill load pallets

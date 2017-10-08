@@ -1,0 +1,105 @@
+Empty Stock Simulation - Alice picks until PickFace is empty. A ReplenishRequest is generated when quantity hits 5, Alice continues to pick until she can't anymore. Replenisher Rob will refill the pickFace and Alice will continue to pick.
+Picker Alice ready
+Replenisher Rob ready
+Order S White
+Order S White
+Order S White
+Order S White
+Picker Alice get pickRequest
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice marshal
+Order S White
+Order S White
+Order S White
+Order S White
+Picker Alice get pickRequest
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice marshal
+Order S White
+Order S White
+Order S White
+Order S White
+Picker Alice get pickRequest
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice marshal
+Order S White
+Order S White
+Order S White
+Order S White
+Picker Alice get pickRequest
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice marshal
+Order S White
+Order S White
+Order S White
+Order S White
+Picker Alice get pickRequest
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice marshal
+Order S White
+Order S White
+Order S White
+Order S White
+Picker Alice get pickRequest
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice marshal
+Order S White
+Order S White
+Order S White
+Order S White
+Picker Alice get pickRequest
+Picker Alice pick 1
+Picker Alice pick 1
+Picker Alice pick 1
+Replenisher Rob get replenishRequest
+Replenisher Rob replenish A000
+Replenisher Rob get replenishRequest
+Replenisher Rob replenish A001
+Picker Alice pick 1
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice pick 2
+Picker Alice marshal
